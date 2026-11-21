@@ -1,0 +1,4 @@
+Django>=5.1,<6.0
+python-dotenv>=1.0
+web3>=7.0
+mysqlclient>=2.2; platform_system != 'Windows'
